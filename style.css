@@ -1,7 +1,24 @@
+body {
+  background: linear-gradient(
+    158.59deg,
+    rgba(180, 208, 209, 0.3) 24.3%,
+    rgba(224, 195, 252, 0.3) 112.85%
+  );
+}
+
 a {
   color: #3f3f3e;
 }
 
+.hello-div {
+  display: flex;
+  justify-content: center;
+}
+
 .hello-gif {
-  max-width: 40%;
+  max-width: 50%;
+}
+
+.navbar {
+  background-color: transparent;
 }
